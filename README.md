@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é um app, uma ferramenta de acompanhamento de hábitos para o usuário colocar em prática suas resoluções e metas,
 ou seja, registrar ações e acompanhar a evolução dos novos hábitos que deseja colocar na sua rotina.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://maarirods.github.io/nlwSetup)
 
 ## 🔖 Layout
 
