@@ -1,3 +1,4 @@
+add_readme_page_inicial
 <h1 align="center"> Habits </h1>
 
 <p align="center">
@@ -48,3 +49,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
